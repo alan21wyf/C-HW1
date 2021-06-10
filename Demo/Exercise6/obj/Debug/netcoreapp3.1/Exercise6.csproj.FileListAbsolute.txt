@@ -1,0 +1,12 @@
+D:\Antra\Homework\C#\HW1\Demo\Exercise6\bin\Debug\netcoreapp3.1\Exercise6.exe
+D:\Antra\Homework\C#\HW1\Demo\Exercise6\bin\Debug\netcoreapp3.1\Exercise6.deps.json
+D:\Antra\Homework\C#\HW1\Demo\Exercise6\bin\Debug\netcoreapp3.1\Exercise6.runtimeconfig.json
+D:\Antra\Homework\C#\HW1\Demo\Exercise6\bin\Debug\netcoreapp3.1\Exercise6.runtimeconfig.dev.json
+D:\Antra\Homework\C#\HW1\Demo\Exercise6\bin\Debug\netcoreapp3.1\Exercise6.dll
+D:\Antra\Homework\C#\HW1\Demo\Exercise6\bin\Debug\netcoreapp3.1\Exercise6.pdb
+D:\Antra\Homework\C#\HW1\Demo\Exercise6\obj\Debug\netcoreapp3.1\Exercise6.AssemblyInfoInputs.cache
+D:\Antra\Homework\C#\HW1\Demo\Exercise6\obj\Debug\netcoreapp3.1\Exercise6.AssemblyInfo.cs
+D:\Antra\Homework\C#\HW1\Demo\Exercise6\obj\Debug\netcoreapp3.1\Exercise6.csproj.CoreCompileInputs.cache
+D:\Antra\Homework\C#\HW1\Demo\Exercise6\obj\Debug\netcoreapp3.1\Exercise6.dll
+D:\Antra\Homework\C#\HW1\Demo\Exercise6\obj\Debug\netcoreapp3.1\Exercise6.pdb
+D:\Antra\Homework\C#\HW1\Demo\Exercise6\obj\Debug\netcoreapp3.1\Exercise6.genruntimeconfig.cache
